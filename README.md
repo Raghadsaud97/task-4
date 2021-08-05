@@ -1,1 +1,1 @@
-# Use python language in IBM Watson to convert speech to text text to speech • Save the output text from ( speech to text ) as .txt file • Save the output speech from ( text to speech ) as .mp3 file
+# في التاسك الرابع استخدمت لغة البايثون في ibm watson لتحويل الكلام الى نص  والنص الى كلام وحفظت النص كملف txt  وحفظت الكلام كملف mp3
